@@ -1,0 +1,19 @@
+{
+  "name": "datastructure",
+  "version": "1.0.0",
+  "description": "Learning and exploring various DS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nghos3/DataStructure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nghos3/DataStructure/issues"
+  },
+  "homepage": "https://github.com/nghos3/DataStructure#readme"
+}
